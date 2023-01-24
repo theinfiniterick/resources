@@ -50,6 +50,9 @@
 	}
 
 	html {
+		/* default: #10212F */
+		/* background: var(--background-color); */
+		background: #FF0000;
 		background: var(--background-color);								/* default: #10212F */
 		color: var(--text-color);											/* default: #061726 */
 		scrollbar-color: var(--scrollbar-color) !important;							/* default: #D6E0EA #495A6A */
